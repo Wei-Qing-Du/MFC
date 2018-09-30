@@ -1,0 +1,16 @@
+﻿已經開始建置於 2018/9/30 下午 08:53:40。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Willy\Desktop\MECtest\MFCApplicationCau\MFCApplicationCau\MFCApplicationCau.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplicationCau.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplicationCauDlg.cpp
+         MFCApplicationCauDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Willy\Desktop\MECtest\MFCApplicationCau\Debug\MFCApplicationCau.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Willy\Desktop\MECtest\MFCApplicationCau\Debug\MFCApplicationCau.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Willy\Desktop\MECtest\MFCApplicationCau\Debug\MFCApplicationCau.lib" /MACHINE:X86 Debug\MFCApplicationCau.res
+         Debug\MFCApplicationCau.obj
+         Debug\MFCApplicationCauDlg.obj
+         Debug\stdafx.obj
+         MFCApplicationCau.vcxproj -> C:\Users\Willy\Desktop\MECtest\MFCApplicationCau\Debug\MFCApplicationCau.exe
+     1>專案 "C:\Users\Willy\Desktop\MECtest\MFCApplicationCau\MFCApplicationCau\MFCApplicationCau.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.45
